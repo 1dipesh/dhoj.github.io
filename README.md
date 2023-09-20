@@ -1,2 +1,2 @@
 # dhoj.github.io
-My static github websit.
+My static github website.
